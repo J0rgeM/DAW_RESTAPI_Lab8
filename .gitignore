@@ -1,0 +1,4 @@
+# Project exclude paths
+/ClientSide/dist/
+/ClientSide/node_modules/
+/ServerSide/node_modules/
